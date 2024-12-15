@@ -8,6 +8,8 @@ A simple project to demonstrate basic GraphQL server implementation using Apollo
 - Express server for RESTful APIs
 - TypeScript support
 - Hot reloading with Nodemon
+- Schema
+- Resolver
 
 ## Prerequisites
 
